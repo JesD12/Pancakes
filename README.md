@@ -3,11 +3,11 @@ This is a continous track of the pancake recipe, to ensure always perfect pancak
 
 # Ingredients
 
-150g flour
-4,5 dl milk
-50g butter
-3 eggs
-½tbs salt
+* 150g flour
+* 4,5 dl milk
+* 50g butter
+* 3 eggs
+* ½tbs salt
 
 # Recipe
 
@@ -17,8 +17,10 @@ This is a continous track of the pancake recipe, to ensure always perfect pancak
 
 # amounts
 (150g flour) Gives about 10-12 pancakes  - confirmed
+here is some test text  
+this should be two lines
 
 # refrences
-a) The ingredients list is from [Arla](https://www.arla.dk/opskrifter/pandekager/)
-b) The order to add the ingridents is from [Coop] (https://opskrifter.coop.dk/artikler/dette-tip-sikrer-dig-de-bedste-pandekager)
+a) The ingredients list is from [Arla](https://www.arla.dk/opskrifter/pandekager/)  
+b) The order to add the ingridents is from [Coop](https://opskrifter.coop.dk/artikler/dette-tip-sikrer-dig-de-bedste-pandekager)
 
