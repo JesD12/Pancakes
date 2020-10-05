@@ -7,7 +7,7 @@ This is a continous track of the pancake recipe, to ensure always perfect pancak
 * 7,5 dl milk
 * 80g butter
 * 5 eggs
-* 1tbs salt
+* 1tsp salt
 
 
 # Recipe
