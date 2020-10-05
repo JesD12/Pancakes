@@ -3,11 +3,11 @@ This is a continous track of the pancake recipe, to ensure always perfect pancak
 
 # Ingredients
 
-* 150g flour
-* 4,5 dl milk
-* 50g butter
-* 3 eggs
-* ½tbs salt
+* 250g flour
+* 7,5 dl milk
+* 80g butter
+* 5 eggs
+* 1tbs salt
 
 
 # Recipe
@@ -18,7 +18,8 @@ This is a continous track of the pancake recipe, to ensure always perfect pancak
 
 
 # Results
-(150g flour) Gives about 10-12 pancakes  - confirmed - which is not enough for us
+(5 eggs,250g flour) gives about 15-18 pancakes - seems to be enough - consider adding slightly more flour  
+~~(3 eggs, 150g flour) Gives about 10-12 pancakes  - confirmed - which is not enough for us~~ ( [4629ee2](https://github.com/JesD12/Pancakes/tree/4629ee2729e0ac4c0f63466a7703638a6838468b) )
 
 
 # refrences
